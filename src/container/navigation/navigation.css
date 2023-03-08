@@ -1,0 +1,22 @@
+.navigation-bar {
+  display: flex;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 5px;
+  background-color: white;
+}
+.navigation-bar--logo {
+  margin-left: 7.5%;
+}
+.navigation-bar--search {
+  margin-left: 10%;
+  width: 30%;
+}
+.navigation-bar--checkout {
+  margin-left: 30%;
+}
+.navigation-bar--userprofile {
+  margin-left: 5%;
+}

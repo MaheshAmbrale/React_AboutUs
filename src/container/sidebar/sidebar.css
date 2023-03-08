@@ -1,0 +1,13 @@
+.sidebar {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 240px;
+  background-color: white;
+}
+.sidebar--logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}

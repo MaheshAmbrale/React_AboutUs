@@ -1,0 +1,22 @@
+.aboutus {
+  background-color: white;
+  padding: 30px;
+  width: inherit;
+}
+.aboutus--title {
+  font-family: sans-serif;
+}
+.aboutus--company {
+  display: flex;
+  width: 60%;
+}
+.aboutus--company h2 {
+  margin: auto;
+}
+.aboutus--description {
+  color: #c9c9c9;
+}
+.card-desc {
+  display: flex;
+  flex-direction: row;
+}
